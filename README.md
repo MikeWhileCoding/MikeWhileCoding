@@ -6,4 +6,4 @@ I am a Computer Science student at Avans University of Applied Sciences.
 
 ![Mike's github statistics](https://github-readme-stats.vercel.app/api?username=MikeWhileCoding&show_icons=true)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MikeWhileCoding.visitor-badge&left_text=Page%Visits)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MikeWhileCoding.visitor-badge&left_text=Page%20Visits)
