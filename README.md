@@ -61,7 +61,16 @@ Whether it's experimenting in my homelab, printing parts on my 3D printers, work
 - ⚡ Completed multiple electrical and wiring projects  
 - 📚 Always researching something new — I love understanding how things work  
 - 💡 Not afraid to learn any skill if it helps me build or fix something  
-- 🛠️ "If it breaks, I’ll fix it. If it doesn’t exist, I’ll build it."  
+- 🛠️ "If it breaks, I’ll fix it. If it doesn’t exist, I’ll build it.”  
 
 ---
 
+## 📊 GitHub Stats
+
+### 🔼 Most Used Languages
+![Top Langs](https://github-readme-stats-sigma-seven-82.vercel.app/api/top-langs/?username=mikewhilecoding&layout=compact)
+
+### 📈 My GitHub Stats
+![Mike's GitHub Stats](https://github-readme-stats-sigma-seven-82.vercel.app/api?username=mikewhilecoding&show_icons=true)
+
+---
