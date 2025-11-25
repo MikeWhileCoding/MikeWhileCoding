@@ -66,7 +66,7 @@ Whether it's experimenting in my homelab, printing parts on my 3D printers, work
 ---
 
 ## 📊 GitHub Stats
-
+_These only cover public repositories, most of my contributions are private_
 ### 🔼 Most Used Languages
 ![Top Langs](https://github-readme-stats-sigma-seven-82.vercel.app/api/top-langs/?username=mikewhilecoding&layout=compact)
 
