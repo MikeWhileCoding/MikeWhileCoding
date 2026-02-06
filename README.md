@@ -9,7 +9,7 @@ Whether it's experimenting in my homelab, printing parts on my 3D printers, work
 
 ---
 
-## 🧰 Languages I Know
+## 🧰 Languages I Know & have worked with
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
