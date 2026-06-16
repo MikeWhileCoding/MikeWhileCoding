@@ -59,7 +59,7 @@ Whether it's experimenting in my homelab, printing parts on my 3D printers, work
 - 🖨️ Own two 3D printers and constantly print new upgrades  
 - 🚗 Enjoy working on my car and learning mechanical/mechatronic skills  
 - ⚡ Completed multiple electrical and wiring projects  
-- 📚 Always researching something new — I love understanding how things work  
+- 📚 Always researching something new. I love understanding how things work  
 - 💡 Not afraid to learn any skill if it helps me build or fix something  
 - 🛠️ "If it breaks, I’ll fix it. If it doesn’t exist, I’ll build it.”  
 
