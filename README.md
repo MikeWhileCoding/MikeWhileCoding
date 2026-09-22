@@ -7,9 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0418-mike-de-groot/)
 [![Contact](https://img.shields.io/badge/Contact-D14836?style=flat&logo=maildotru&logoColor=white)](https://mikedegroot.dev/contact/)
 
-I'm a Computer Science student at Avans University of Applied Sciences. I make developer tools, experiment in my homelab, and keep notes on [mikedegroot.dev](https://mikedegroot.dev) so future-me doesn't have to relearn the same lesson twice.
-
+💼 Software Engineer at **Online Identity & Solutions** in Kerkdriel, NL<br>
+🎓 Computer Science student at Avans University of Applied Sciences
+ 
+I make developer tools, experiment in my homelab, and keep notes on [mikedegroot.dev](https://mikedegroot.dev) so future-me doesn't have to relearn the same lesson twice.
+ 
 Outside of code you'll find me printing upgrades on my two 3D printers, working on my car, or wiring up some electrical project. I research *everything* until I understand it fully.
+
 
 ---
 
